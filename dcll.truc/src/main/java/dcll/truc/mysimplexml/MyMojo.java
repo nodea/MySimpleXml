@@ -19,6 +19,6 @@ public class MyMojo
 	        root.insertChild(1, utc);
 	        root.removeChild(4);
 	        root.removeChild(4);*/
-	        System.out.println(doc.toXML());
+	        //System.out.println(doc.toXML());
 	  }
 }
